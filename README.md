@@ -49,7 +49,7 @@ EduHub is a smart student portal that allows students to access notes and videos
 
 
 
-📺 [Watch Full ](video(1)(1).mp4)
+📺 [Watch Full ](video.mp4)
 
 Or embed directly:
 

@@ -47,9 +47,9 @@ EduHub is a smart student portal that allows students to access notes and videos
 
 ## 🎬 Demo Video
 
-> Upload your demo video to YouTube or your repo and paste the link here.
 
-📺 [Watch Full Demo on YouTube](video(1)(1).mp4)
+
+📺 [Watch Full ](video(1)(1).mp4)
 
 Or embed directly:
 
